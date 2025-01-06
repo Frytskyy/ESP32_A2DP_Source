@@ -10,4 +10,4 @@ BT Microphone
 ![bt_microphone](https://github.com/schreibfaul1/ESP32-A2DP-Source/blob/master/examples/BT_Microphone/bt_microphone.jpg)
 
 Voice Changer capabilities where added by me (Volodymyr Frytskyy) and my daughter Polina as part of here school project
-![my resume]([https://github.com/schreibfaul1/ESP32-A2DP-Source/blob/master/examples/BT_Microphone/bt_microphone.jpg](https://www.vladonai.com/about-resume))
+(https://www.vladonai.com/about-resume)
